@@ -5,4 +5,4 @@ Created when working to automate daily report updates. This can help to update b
 
 **Caution:**
 
-This package is used for T-SQL queires (espcially queries for SSMS).
+This repo is used for T-SQL queires (espcially queries for SSMS).
